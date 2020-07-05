@@ -1,6 +1,6 @@
 # My Nvim
 
-![My Nvim pic](./utils/images/nvim.png)
+![My Nvim pic](./utils/images/my_nvim.png)
 
 ## Install in one command
 
