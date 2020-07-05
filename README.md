@@ -1,6 +1,6 @@
-# Nvim Mach 2
+# My Nvim
 
-![Nvim Mach 2 pic](./utils/images/nvim.png)
+![My Nvim pic](./utils/images/nvim.png)
 
 ## Install in one command
 
@@ -9,7 +9,7 @@ The following will install this config if you have an existing config it will mo
 This script only supports Mac, Ubuntu and Arch
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/nvim/master/utils/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/TyNguyen2k1/My_Nvim/master/utils/install.sh)
 ```
 
 ## Install Neovim
